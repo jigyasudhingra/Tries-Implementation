@@ -72,4 +72,8 @@ public:
 	void search(string word) {
 		cout<<search(root, word);
 	}
+	
+	void remove (string word) {
+		
+	}
 };
